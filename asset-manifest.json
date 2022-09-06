@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Depo24Ass/static/css/main.21513e62.css",
+    "main.js": "/Depo24Ass/static/js/main.3f4f3037.js",
+    "index.html": "/Depo24Ass/index.html",
+    "main.21513e62.css.map": "/Depo24Ass/static/css/main.21513e62.css.map",
+    "main.3f4f3037.js.map": "/Depo24Ass/static/js/main.3f4f3037.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21513e62.css",
+    "static/js/main.3f4f3037.js"
+  ]
+}
